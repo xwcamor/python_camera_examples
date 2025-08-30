@@ -1,4 +1,5 @@
-descargar primero en el cmd             pip install mediapipe opencv-python           (tarda un rato)
+#descargar primero en el cmd
+#pip install mediapipe opencv-python         
 
 
 
